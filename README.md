@@ -9,7 +9,8 @@ Using is easy! All you have to do is follow the steps below!
 2. Execute the script.
 3. Go into your load out and swap tabs. You will then see all guns appear.
 
-Loadstring: '''loadsting(game:HttpGet("https://raw.githubusercontent.com/P-DennyGamingYT/PF-UnlockAll/main/Script.lua"))()
+Loadstring: ```lua
+loadsting(game:HttpGet("https://raw.githubusercontent.com/P-DennyGamingYT/PF-UnlockAll/main/Script.lua"))()```
 
 # Credits
 
